@@ -1,0 +1,13 @@
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.0\DiscountCards.exe
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.0\DiscountCards.deps.json
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.0\DiscountCards.runtimeconfig.json
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.0\DiscountCards.runtimeconfig.dev.json
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.0\DiscountCards.dll
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.0\DiscountCards.pdb
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.0\DiscountCards.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.0\DiscountCards.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.0\DiscountCards.AssemblyInfo.cs
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.0\DiscountCards.dll
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.0\DiscountCards.pdb
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\bin\Debug\netcoreapp3.0\Ninject.dll
+C:\Users\PC\source\repos\DiscountCards\DiscountCards\obj\Debug\netcoreapp3.0\DiscountCards.csproj.CopyComplete
